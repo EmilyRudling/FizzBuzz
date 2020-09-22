@@ -63,10 +63,6 @@ public class Main {
             outputArray.clear();
             outputArray.add("Bong");
         }
-        if (i % 13 == 0){
-            outputArray.add("Fezz"); //BEFORE FIRST B WORD
-
-        }
         if (i % 17 == 0){
             Collections.reverse(outputArray);
         }
